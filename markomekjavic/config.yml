@@ -1,3 +1,19 @@
-baseURL: http://example.org/
+baseURL: ""
 languageCode: en-us
-title: My New Hugo Site
+title: Marko Horatio Mekjavic
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Hello Stranger!"
+    Content: >
+            Welcome to my blog where I talk about the cool projects I embark on :)
+            Below are the links to my repositories and other blogs if you want to check them out!
+               
+  socialIcons:
+      - name: github
+        url: 'https://github.com/Pompey21'
+      - name: medium
+        url: 'https://medium.com/@marko.mekjavic'
+      - name: goodreads
+        url: 'https://www.goodreads.com/user/show/151341673-marko-mekjavi'
